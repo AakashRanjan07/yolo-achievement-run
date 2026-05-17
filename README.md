@@ -1,5 +1,9 @@
-# Yolo Achievement Run
+# Development Sandbox
 
-This is a temporary repository to trigger the Yolo achievement.
+A playground repository for testing GitHub Actions, small scripts, and configuration experiments.
 
-Update: Added a new line to trigger PR.
+## Purpose
+This repository serves as a personal sandbox for:
+- Testing branch merge strategies.
+- Verifying automated workflows.
+- Experimenting with repository configurations.
